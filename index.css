@@ -1,0 +1,27 @@
+.container {
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+.mainheading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.head {
+    color: black;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.scont {
+    border-radius: 5px;
+    background-color: #DFF6FF;
+    margin: 4px;
+    padding: 5px;
+    width: 50vw;
+}
