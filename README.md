@@ -23,11 +23,12 @@
 
 ![Delete Employee Details](deletion.png)
 
-![Update Employee Details](get.png)
+![Update Employee Details](update.png)
 
-![entry of employee shown in database](data.jpg)
+![entry of employee shown in database](get.png)
 
 ### Functionalities:
 - Add the Employee details and save them in JsonPowerDB
 - delete the details and update the details using the record number 
 - show the employee details by using name and render the results  below the form
+- get the employee details by using employee name
